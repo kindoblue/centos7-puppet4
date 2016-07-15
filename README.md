@@ -1,5 +1,5 @@
-# docker-puppetmaster
-Docker image for puppet server
+# docker-centos7-puppet4
+Docker image for puppet server v.4
 
 Autosigning is turned *on* in puppet.conf.
 
